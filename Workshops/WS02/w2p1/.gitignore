@@ -1,0 +1,16 @@
+# Derleme çıktıları
+*.exe
+*.out
+*.o
+*.obj
+
+# Geçici dosyalar
+*.log
+*.tmp
+
+# IDE / Editör dosyaları
+.vscode/
+*.code-workspace
+
+# Yedek dosyalar
+*~
